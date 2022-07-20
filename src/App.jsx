@@ -3,10 +3,6 @@ import { useState } from 'react';
 import * as Icon from 'react-bootstrap-icons';
 import { FaVuejs, FaAngular,FaHtml5,FaCss3 } from "react-icons/fa";
 
-
-
-
-
 function App() {
   const [count, setCount] = useState(0);
   
