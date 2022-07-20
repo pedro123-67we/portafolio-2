@@ -32,10 +32,12 @@
 .icono-nav{
   height:25px;
   width: 100px;
-  display:flex;
+
+  display: flex;
+  float: right;
   color:#ddd;
+  vertical-align:top;
   background-color: #333;
-  text-align: center;
   padding: 14px 1px;
 }
 
@@ -100,11 +102,21 @@
 .icon{
   justify-content:center;
   color:#ddd;
-  margin:auto;
+  width: 70px;
 }
 
 .imagen{
-  width: 100px;
+  width: 380px;
+  float: right;
+  display: flex;
+  border-radius: 360px;
+  -webkit-border-radius: 360px;
+  -moz-border-radius: 360px;
+  -ms-border-radius: 360px;
+  -o-border-radius: 360px;
+  margin-top:80px;
+  margin-bottom: 0pxpx;
+  margin-right: 80px;
 }
 h2{
   color: #ddd;

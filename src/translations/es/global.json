@@ -1,0 +1,13 @@
+{
+    "navbar":{
+        "ingles":"English",
+        "espanol":"Spanish",
+        "inicio":"Home"
+    },
+    "body":{
+        "nombre":"Pedro Alejandro Gomez Dominguez",
+        "descripcion":"Me considero una persona alegre que le gusta aprender cosas nuesvas, me gusta tambien escuchar musica y salir a distraerme ya sea viendo peliculas o caminar, lo que espero cuando termine mi carreraes encontrar un empleo en el cual pueda desarrollar todas mis habilidades adquiridas y en donde pueda aprender mas acerca de la programacion",
+        "contador":"Number of Visits",
+        "DescripcionTecnologias":"Technologies:"
+    }
+}

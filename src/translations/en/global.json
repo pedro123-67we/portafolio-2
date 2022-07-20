@@ -1,0 +1,13 @@
+{
+    "navbar":{
+        "ingles":"English",
+        "espanol":"Spanish",
+        "inicio":"Home"
+    },
+    "body":{
+        "nombre":"Pedro Alejandro Gomez Dominguez",
+        "descripcion":"I consider myself a happy person who likes to learn new things, I also like listening to music and going out to distract myself, either watching movies or walking, what I hope when I finish my degree is to find a job in which I can develop all my acquired skills and in Where can I learn more about programming",
+        "contador":"Number of Visits",
+        "DescripcionTecnologias":"Technologies:"
+    }
+}
